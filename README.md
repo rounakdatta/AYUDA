@@ -1,6 +1,6 @@
 # AYUDA
 <b><h3>What is AYUDA?</h3></b>
-<p>(Our  platform  is  referred to as  the Money Plant.)
+
 
 Ayuda is a not for profit, blockchain based peer-peer money lending platform.
 Our platform connects lenders and borrowers from all across the globe because we believe that your will to help someone is much  greater than the miles supporting you.
