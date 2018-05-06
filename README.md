@@ -16,35 +16,35 @@ We use an innovative dynamic-interest rate method to incentivize our lenders.In 
 ![workflow](https://github.com/souradeep-das/AYUDA/blob/master/Capture6.PNG)<hr>
 
 <b><h3>Our Tech-Stack</h3><b><br>
-  <ol><li>Ethereum smart constracts (in solidity)</li>
+  <ol><li>Ethereum smart contracts (in solidity)</li>
 <li>Ropsten testnet</li>
 <li>Truffle framework</li>
 <li>MetaMask</li>
 <li>Remix IDE</li>
 <li>Web3.js</li>
-<hr>
   </ol>
+ <hr>
 <h3><b>Steps to compile Truffle</h3></b>
 <br>
-<ol>
- <li> git clone https://github.com/souradeep-das/AYUDA/</li>
-<li>truffle compile</li>
-<li>truffle migrate</li>
-<li>truffle console</li>
-<li>Interact using Web3.js</li>
- </ol><ol>
+ 
+ ```bash
+git clone https://github.com/souradeep-das/AYUDA
+truffle compile
+truffle migrate
+truffle console
+Interact using Web3.js
+ ```
+<b><h3>Find more about our project</h3></b><br>
   
-  <b><h3>Find more about our project</h3></b><br>
-  
-  <li><a href="https://www.youtube.com/channel/UCW0QJpbet6AfKRe-Nmw623w?view_as=subscriber">Link to our demo video</a></li>
-  <li><a href="https://ropsten.etherscan.io/address/0x076353c6015fc5ff37bbd47472f76002bb712ac5">Link to our smart contract deployed on Ropsten test-net</a></li>
+  <li><a href="https://youtu.be/tUHbLQloUxg">Demo Video</a></li>
+  <li><a href="https://ropsten.etherscan.io/address/0x076353c6015fc5ff37bbd47472f76002bb712ac5">Smart Contract deployed on Ropsten testnet</a></li>
   </ol>
   
   <hr>
- <b> <h3>Created by Team Satoshi for TechGig Hackathon</h3></b><br>
+ <b><h3>Created by Team Satoshi for TechGig Hackathon</h3></b><br>
  
  <b><h3>TEAM MEMBERS</h3></b>
- <ol><li><a href="https://github.com/rounakdatta">Raunak Datta</a></li>
+ <ol><li><a href="https://github.com/rounakdatta">Rounak Datta</a></li>
   <li><a href="https://github.com/souradeep-das">Souradeep Das</a></li>
   <li><a href="https://github.com/tejas2005">Tejasv Sharma</a></li></ol>
  
